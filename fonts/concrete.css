@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("CMUConcrete-Roman.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("CMUConcrete-Bold.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("CMUConcrete-Italic.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Concrete";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("CMUConcrete-BoldItalic.woff2");
+}

@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Computer Modern Bright";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("CMUBright-Roman.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Bright";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("CMUBright-Oblique.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Bright";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("CMUBright-SemiBold.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Bright";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("CMUBright-SemiBoldOblique.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Bright";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("CMUBright-Bold.woff2");
+}
+@font-face {
+  font-family: "Computer Modern Bright";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("CMUBright-BoldOblique.woff2");
+}
