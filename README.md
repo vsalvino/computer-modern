@@ -4,7 +4,9 @@ Computer Modern Web Fonts
 This repo contains the core Computer Modern fonts, converted from their original
 sources into WOFF2 web fonts and hosted via jsdelivr CDN.
 
-View the [example](https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/example.html).
+View the [example](https://vsalvino.github.io/computer-modern/).
+
+Fonts are converted via FontForge from sources at: https://cm-unicode.sourceforge.io/
 
 
 Use via CDN
