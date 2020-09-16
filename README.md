@@ -8,11 +8,10 @@ View the [example](https://vsalvino.github.io/computer-modern/).
 
 Fonts are converted via FontForge from sources at: https://cm-unicode.sourceforge.io/
 
+To use the fonts via CDN, copy the links below.
 
-Use via CDN
------------
 
-### Computer Modern Bright
+## Computer Modern Bright
 
 Add to `<head>`:
 ```html
@@ -29,7 +28,7 @@ Use in CSS:
 font-family: "Computer Modern Bright", sans-serif;
 ```
 
-### Computer Modern Concrete
+## Computer Modern Concrete
 
 Add to `<head>`:
 ```html
@@ -46,7 +45,7 @@ Use in CSS:
 font-family: "Computer Modern Concrete", serif;
 ```
 
-### Computer Modern Sans
+## Computer Modern Sans
 
 Add to `<head>`:
 ```html
@@ -63,7 +62,7 @@ Use in CSS:
 font-family: "Computer Modern Sans", sans-serif;
 ```
 
-### Computer Modern Serif
+## Computer Modern Serif
 
 Add to `<head>`:
 ```html
@@ -80,7 +79,7 @@ Use in CSS:
 font-family: "Computer Modern Serif", serif;
 ```
 
-### Computer Modern Typewriter (monospace)
+## Computer Modern Typewriter
 
 Add to `<head>`:
 ```html
