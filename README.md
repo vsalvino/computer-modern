@@ -15,7 +15,7 @@ To use the fonts via CDN, copy the links below.
 
 Add to `<head>`:
 ```html
-<link src="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/bright.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/bright.css" rel="stylesheet">
 ```
 
 Or import in CSS:
@@ -32,7 +32,7 @@ font-family: "Computer Modern Bright", sans-serif;
 
 Add to `<head>`:
 ```html
-<link src="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/concrete.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/concrete.css" rel="stylesheet">
 ```
 
 Or import in CSS:
@@ -49,7 +49,7 @@ font-family: "Computer Modern Concrete", serif;
 
 Add to `<head>`:
 ```html
-<link src="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/sans.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/sans.css" rel="stylesheet">
 ```
 
 Or import in CSS:
@@ -66,7 +66,7 @@ font-family: "Computer Modern Sans", sans-serif;
 
 Add to `<head>`:
 ```html
-<link src="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css" rel="stylesheet">
 ```
 
 Or import in CSS:
@@ -83,7 +83,7 @@ font-family: "Computer Modern Serif", serif;
 
 Add to `<head>`:
 ```html
-<link src="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/typewriter.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/typewriter.css" rel="stylesheet">
 ```
 
 Or import in CSS:
